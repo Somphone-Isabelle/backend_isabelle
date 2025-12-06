@@ -9,7 +9,7 @@ npm install
 npm start        
 
 
-## API Endpoints
+## API routes
 GET /products
 GET /item
 GET /item/next
